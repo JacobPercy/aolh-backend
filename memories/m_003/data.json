@@ -1,0 +1,31 @@
+{
+  "id": "m_003",
+  "title": "Camping Trip",
+  "description": "Weekend camping in the mountains.",
+  "timestamp": "2021-09-10T10:00:00",
+  "location": {
+    "name": "Rocky Mountains",
+    "coordinates": {
+      "lat": 39.113,
+      "lng": -105.358
+    }
+  },
+  "tags": [
+    "camping",
+    "mountains",
+    "nature"
+  ],
+  "people": [
+    {
+      "name": "sister",
+      "relation": "sibling"
+    }
+  ],
+  "media": {
+    "images": []
+  },
+  "keywords": [
+    "weekend camping",
+    "mountains"
+  ]
+}

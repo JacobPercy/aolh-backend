@@ -1,0 +1,32 @@
+{
+  "description": "Graduated from university with honors.",
+  "id": "m_002",
+  "keywords": [
+    "university",
+    "honors",
+    "graduated"
+  ],
+  "location": {
+    "coordinates": {
+      "lat": 40.7128,
+      "lng": -74.006
+    },
+    "name": "University Hall"
+  },
+  "media": {
+    "images": [],
+    "images_data": []
+  },
+  "people": [
+    {
+      "name": "dad",
+      "relation": "father"
+    }
+  ],
+  "tags": [
+    "graduation",
+    "university"
+  ],
+  "timestamp": "2019-05-15T15:30:00",
+  "title": "Graduation Day"
+}

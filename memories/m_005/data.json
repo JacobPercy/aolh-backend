@@ -1,0 +1,31 @@
+{
+  "id": "m_005",
+  "title": "First Job",
+  "description": "Started first job at the tech company.",
+  "timestamp": "2018-08-01T09:00:00",
+  "location": {
+    "name": "Tech HQ",
+    "coordinates": {
+      "lat": 37.7749,
+      "lng": -122.4194
+    }
+  },
+  "tags": [
+    "work",
+    "job",
+    "career"
+  ],
+  "people": [
+    {
+      "name": "boss",
+      "relation": "manager"
+    }
+  ],
+  "media": {
+    "images": []
+  },
+  "keywords": [
+    "started first job",
+    "tech company"
+  ]
+}

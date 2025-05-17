@@ -1,0 +1,32 @@
+{
+  "id": "m_001",
+  "title": "Beach Day",
+  "description": "Fun day at the beach with family.",
+  "timestamp": "2020-07-01T12:00:00",
+  "location": {
+    "name": "Santa Monica",
+    "coordinates": {
+      "lat": 34.0195,
+      "lng": -118.4912
+    }
+  },
+  "tags": [
+    "beach",
+    "family",
+    "summer"
+  ],
+  "people": [
+    {
+      "name": "mom",
+      "relation": "mother"
+    }
+  ],
+  "media": {
+    "images": []
+  },
+  "keywords": [
+    "fun day",
+    "family",
+    "beach"
+  ]
+}

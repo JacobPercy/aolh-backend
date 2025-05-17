@@ -1,0 +1,32 @@
+{
+  "description": "Family dinner and gift exchange.",
+  "id": "m_004",
+  "keywords": [
+    "gift exchange",
+    "family dinner"
+  ],
+  "location": {
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "name": "Home"
+  },
+  "media": {
+    "images": [],
+    "images_data": []
+  },
+  "people": [
+    {
+      "name": "grandma",
+      "relation": "grandmother"
+    }
+  ],
+  "tags": [
+    "christmas",
+    "family",
+    "holiday"
+  ],
+  "timestamp": "2020-12-24T19:00:00",
+  "title": "Christmas Eve"
+}

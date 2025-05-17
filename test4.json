@@ -1,0 +1,158 @@
+[
+  {
+    "description": "Fun day at the beach with family.",
+    "id": "m_001",
+    "keywords": [
+      "fun day",
+      "family",
+      "beach"
+    ],
+    "location": {
+      "coordinates": {
+        "lat": 34.0195,
+        "lng": -118.4912
+      },
+      "name": "Santa Monica"
+    },
+    "media": {
+      "images": []
+    },
+    "people": [
+      {
+        "name": "mom",
+        "relation": "mother"
+      }
+    ],
+    "tags": [
+      "beach",
+      "family",
+      "summer"
+    ],
+    "timestamp": "2020-07-01T12:00:00",
+    "title": "Beach Day"
+  },
+  {
+    "description": "Family dinner and gift exchange.",
+    "id": "m_004",
+    "keywords": [
+      "gift exchange",
+      "family dinner"
+    ],
+    "location": {
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "name": "Home"
+    },
+    "media": {
+      "images": []
+    },
+    "people": [
+      {
+        "name": "grandma",
+        "relation": "grandmother"
+      }
+    ],
+    "tags": [
+      "christmas",
+      "family",
+      "holiday"
+    ],
+    "timestamp": "2020-12-24T19:00:00",
+    "title": "Christmas Eve"
+  },
+  {
+    "description": "Weekend camping in the mountains.",
+    "id": "m_003",
+    "keywords": [
+      "weekend camping",
+      "mountains"
+    ],
+    "location": {
+      "coordinates": {
+        "lat": 39.113,
+        "lng": -105.358
+      },
+      "name": "Rocky Mountains"
+    },
+    "media": {
+      "images": []
+    },
+    "people": [
+      {
+        "name": "sister",
+        "relation": "sibling"
+      }
+    ],
+    "tags": [
+      "camping",
+      "mountains",
+      "nature"
+    ],
+    "timestamp": "2021-09-10T10:00:00",
+    "title": "Camping Trip"
+  },
+  {
+    "description": "Graduated from university with honors.",
+    "id": "m_002",
+    "keywords": [
+      "university",
+      "honors",
+      "graduated"
+    ],
+    "location": {
+      "coordinates": {
+        "lat": 40.7128,
+        "lng": -74.006
+      },
+      "name": "University Hall"
+    },
+    "media": {
+      "images": []
+    },
+    "people": [
+      {
+        "name": "dad",
+        "relation": "father"
+      }
+    ],
+    "tags": [
+      "graduation",
+      "university"
+    ],
+    "timestamp": "2019-05-15T15:30:00",
+    "title": "Graduation Day"
+  },
+  {
+    "description": "Started first job at the tech company.",
+    "id": "m_005",
+    "keywords": [
+      "started first job",
+      "tech company"
+    ],
+    "location": {
+      "coordinates": {
+        "lat": 37.7749,
+        "lng": -122.4194
+      },
+      "name": "Tech HQ"
+    },
+    "media": {
+      "images": []
+    },
+    "people": [
+      {
+        "name": "boss",
+        "relation": "manager"
+      }
+    ],
+    "tags": [
+      "work",
+      "job",
+      "career"
+    ],
+    "timestamp": "2018-08-01T09:00:00",
+    "title": "First Job"
+  }
+]
