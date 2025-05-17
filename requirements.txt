@@ -1,0 +1,4 @@
+flask
+yake
+python-dotenv
+nltk
